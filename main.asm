@@ -5,6 +5,7 @@ section .data
 
 section .bss
     last_node
+    nodes
 
  section .text
     global _start
@@ -28,6 +29,7 @@ push:
     mov rax, [last_node]          ; dereference last node's address
     mov [rbx + o_previous], rax   ; store data
     mov [last_node], rbx          ; update global
+    add [nodes], 1
     ret
 
 pop:
@@ -39,10 +41,17 @@ pop:
     call brk_new
     mov rax, [rbx+ o_previous]   ; dereference previous node's address
     mov [last_node], rax         ; update global
+    sub [nodes], 1
     ret                          ; because we allocate the memory adjacent to [o_data], we could also overwrite the old data
-
 not_last_node:
     mov rax, 1                    ; arbitrary flag for attempt at nullptr on pop
+    ret
+
+flush:
+    call pop
+    mov r8, nodes
+    test r8, r8
+    jnz flush
     ret
 
 _start:
@@ -51,6 +60,12 @@ _start:
     mov r8, 2
     call push                     ; create node #2
     call pop                      ; free and revert to state at node #1
+    mov r8, 2
+    call push
+    mov r8, 3
+    call push
+    call flush                   ; purge nodes
+
 
  terminate:
     mov eax, 60

